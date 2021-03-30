@@ -1,0 +1,10 @@
+// Use goutte to webscrapping
+
+// run npm install to load the vendor folder
+
+// then see the github documentation
+
+https://github.com/FriendsOfPHP/Goutte
+
+// Example
+https://goutte.readthedocs.io/en/latest/
